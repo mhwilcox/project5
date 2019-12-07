@@ -15,7 +15,6 @@ bool isMinHeap(std::string s)
 	int height = 0;	// count from the root
 	int leaves = totalNodes / 2;	// 
 	
-	std::cout<<"string: "<<s;
 	// tree has 2 ^ n nodes max at each height
 	// if a string only has one char then its a minHeap
 	if ( s.length() < 2 ) {
@@ -52,7 +51,6 @@ bool isMinHeap(std::string s)
 		height++;
 	}	// end for loop
 
-std::cout<<"   isMinHeap = "<< std::boolalpha<<check<<std::endl;
 	return check;
 }
 
@@ -63,17 +61,13 @@ void doSomeSort(std::vector<std::string> & vec)
 	std::string max = vec[unchecked];
 	std::string temp;
 	int nmax;
-std::cout<<"\nin string: ";
-for( int k = 0; k<vec.size(); k++) {
-	std::cout<<vec[k]<<", ";
-}	
+	
 	// while unchecked values is greater than 1 do loop
 	while ( unchecked > 0) {
 		for ( int i = 0; i <= unchecked; i++) {
-			std::cout<<"@@@  unchecked: "<<unchecked<<std::endl;
-		std::cout<<"compare curMax: "<<max<<" to vec["<<i<<"]: "<<vec[i]<<std::endl;
 			// if max < vec[i] then put max as vec[i] and nmax is the address in the vec where the new max came from
 			// 	and temp is the old max
+			
 			if ( max < vec[i] ) {
 				max = vec[i];
 				temp = vec[unchecked];
@@ -81,45 +75,40 @@ for( int k = 0; k<vec.size(); k++) {
 			}
 			// if the max is already at the end of the vector, decrement unchecked and change max to the next value
 			else if (max == vec[i]) {
-				std::cout<<"max == vec[i]"<<std::endl;
 				unchecked--;
 				max = vec[unchecked];
-				break;
+				//break;
 			}
 			
 		} // end for loop
-		std::cout<<"out of for loop."<<std::endl;
 		// assign max to the farthest right address that hasn't been given a max value yet
 		//	decrement unchecked and assign max to the new farthest right value
-			std::cout<<"******* prevMax|temp: "<<vec[unchecked]<<"   new max: "<<max<<std::endl;;
-			std::cout<<"unchecked: "<<unchecked<<std::endl;
 		if ( max != vec[unchecked]) {
-			std::cout<<"max!=vec[unchecked]"<<std::endl;
 			vec[unchecked] = max;
 			vec[nmax] = temp;
 			unchecked--;
 			max = vec[unchecked];
 		}
-		std::cout<<"end of while loop"<<std::endl;
 	} // end while loop
 
-std::cout<<"\nsolution: ";
+/*
+std::cout<<"\n\nsolution: ";
 for( int k = 0; k<vec.size(); k++) {
 	std::cout<<vec[k]<<", ";
 }
-	std::cout<<"\n end sort\n"<<std::endl;
+*/
 }
 
 
 std::vector<std::string> findHeaps(std::istream & in)
 {
-	std::cout<<"findHeaps"<<std::endl;
 	std::vector<std::string> words;
 	std::vector<std::string> retMin;
 	std::string line, word;
 	std::stringstream ss; 
 	bool check;
 
+	// put words in vector from in
 	while ( getline(in,line) ) {
 		ss.clear();
 		ss<<line;
@@ -129,12 +118,7 @@ std::vector<std::string> findHeaps(std::istream & in)
 			}
 		} // end ss >> word
 	} // end while
-	std::cout<<"size of words: "<<words.size()<<"\nwords: "<<std::endl;
-	for( int k = 0; k < words.size(); k++) {
-		std::cout<<words[k]<<", ";
-	}
-
-	std::cout<<"now on to MinHeap"<<std::endl;
+	
 	// puts strings that are min heap in retMin
 	for ( int i = 0; i < words.size(); i++) {
 		check = isMinHeap(words[i]);
@@ -142,17 +126,13 @@ std::vector<std::string> findHeaps(std::istream & in)
 			retMin.push_back(words[i]);
 		}
 	}
-	std::cout<<"size of retMin: "<<retMin.size()<<std::endl;
 	// sorts retMin
+	if(retMin.size() == 0) {
+		return retMin;
+	}
+
 	doSomeSort(retMin);
-std::cout<<"after sort in findHeaps"<<std::endl;
 
-	std::cout<<" retMin: ";
-for(int f = 0; f < retMin.size(); f++) {
-	std::cout<<retMin[f]<<", ";
-}
-
-std::cout<<"\n end of findHeaps"<<std::endl;
 	return retMin;
 }
 

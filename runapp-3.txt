@@ -1,0 +1,207 @@
+findHeaps
+solution: abc, ant, for, not, now, 
+end 3 char test.
+
+*******
+@@@@@@@
+********
+
+supercalifragilisticexpialidocious.length(): 34
+findHeaps
+
+***
+printing testSort: 
+a: 
+	aSguyczdqapdoixlnSaitazt
+	aaxoqcicnljfvlolhckrcrro
+	acqxhrjiiuxpxiwiacliqpqs
+	agkcgsiojslimpmrelxcugar
+	aiosoukcpcqlmpborixobloi
+	alitedqsedgfviqpplzcuoqp
+	aowSilsiwitlcistsdglviri
+	asxfkphoiokofpeiathreiwu
+b: 
+	bacogsbStrdsviwlxrrieeni
+	bddsgewpucmxpptleljirapa
+	biffppzuosdrvpciyrddnaet
+	biptudpidixSfacrjiisblir
+	brdiyeesaewlxipioixoyuoc
+	brfcyuzlexarhrlcneiixdls
+	bsgsqrviwlqSzlmlfunistri
+	bsxeilwibclszovsaSdsjucd
+	bulaiacsitySresfcdwitanx
+c: 
+	cadtrivdcsrpkimijcfoiiar
+	ceuSuaornuerbiactinfeiyt
+	cewoyspffdiujpxanidavtyi
+	coacroyaccbtqrjuvcbSiiwr
+	cposctcxbifiodmpoetiapki
+	crbadintfiwuuoxtqgqpzcdt
+	crlcyauogSollewxptdccsdo
+	cukiaiceitjuwSzxgcagraux
+d: 
+	dahtyenxaiwixcwefaxujpip
+	daoidipebirlqieictapoofi
+	dceidijpyswsjreuxxpiqoul
+	dchabotgearserroalvpwxqc
+	ddsejtssfirgcsqeyxeiksge
+	dehSpprdpaeemodxvoucjpba
+	delihtnsvigciieafirroupd
+	dibswioahioSypitlrasiShi
+	diepoclilrfatfaiolulyeai
+	dirppeaaesgczilipiycbcfc
+e: 
+	eSldvcvrkieezenrldsSuloc
+	ealckozacindeioiocvolrqe
+	eanllgrlyivihryezthxpxkf
+	edkificxzSdabiwiyuftoisu
+	efaphftawssiqroiwsqclfwc
+	eixabiqfhabogidcaazfxxca
+	eppulisdtusizrqryltirlqg
+	eukshdwstisikizierfioaja
+f: 
+	ffqodldiuszabpofccdctrtg
+	fiqiaireiunccctswccihrma
+	fixpsipizuqcvinllcglmcnl
+g: 
+	gSjpqttuhldclisetslpnuft
+	gdjiqatajileharafckipidi
+	gebcqszuugzpnteoylrpuczu
+	gexSsifijucircuizinrnlla
+	gfkccahikopgdinozuwicpaS
+	gizioicivoppsikcqcnizfta
+	gtugdiviapllcsiaigqikixi
+h: 
+	hcucalipruqiupoisareklnl
+	hioixsofwiaaqazpfuplwikp
+	hljlgfuipiucqivpolvstieo
+	hlscapipioqaapwiyijozrci
+i: 
+	icmirrsieSirpdclpxpeuaua
+	iefazivcaSdilepoxpsigiaf
+	iitinecisibedcrlxauaotdt
+	ilmtgpwihlqiufjcfSpugSwo
+	ipfltpgoaaqiziditpsfkSdl
+	isqcfocujcbfgiliuuextstr
+	iswpuovlzahcqimdtroidfdp
+j: 
+	jaupliqotarfzicxxrxpfiyu
+	jaxdrosrhrbcqidotucurlua
+	jcocisledskSiixpwllcvaai
+	jemlklziplmociwreeviyiel
+	jgurcpvipsjrxajgwaxiffdl
+	jiglgspijrclalziyuriqaeu
+	jutpalheqrnimpwicxiluclr
+k: 
+	klflvodemumikpnigxoatinl
+	krecoexsyckliiuptclinoce
+	kupeqikrzgofiixatijxpsug
+l: 
+	lSjissyiuiiitxrafggrbizf
+	liwttinciSlpkicimilifdmi
+	lujigredzubSblyuciiivuaa
+	lxpafcccmfjetuhodihakiwl
+m: 
+	mahgidfffllcvraswculbeza
+	mcvpaiyicirixajpelpiiawe
+	mescluxayalrtuoSecyuorjg
+	mibxuaalcaropfadvacpcfip
+	mimcwioxcllurisrciccvidt
+	mimueinemforetmSntqiaijo
+	moqrsimohioSvtnihiwlgcic
+	movufpearfgevfflfSpltctS
+	mreufonspdacksfgxlxuzcul
+n: 
+	napuprlcklrlugriloagbima
+	nekijiarsizayapiwpqtcpte
+	nfbebpacwahcqixtoixxbcee
+	nidicrulciicvczohxsfjira
+	nliSeduoqaxardxolipoorai
+	nryoqcfihrautfnSjphdlxor
+o: 
+	oftrjeyieerldabojibiicsl
+	ookikixuoimrfllicSnaztyp
+p: 
+	pSkgdrtuzcmlmdwsoxdxpteS
+	paiaxskxwcnificcolvirosp
+	paichtqidesiasaidldpdipc
+	pcvraububatonsyidlursebc
+	pdtoqSvoaldexlqudohphlci
+	pgnckcviufaivuvsylglvpdr
+q: 
+	qcvcfibcuszdcrhadihowefe
+	qcyswfjcwsyrhrvipcbcjtpl
+	qlbolividubrmfropeniqdap
+	qlupbourdptrhlblsxvdoeva
+	qrsiopylggosvgdfqeboilmo
+r: 
+	rSargatgdgsowtlivdgoacoi
+	rcnSyrxrorloaewxpuoxwaed
+	rerikitucoviilkaetusgxtx
+	ricaiphxccrcxlxiaargeolS
+	rocuwizieaixflhiqsyeiana
+	rpqujcjeapyuxcladpdeixwc
+	rroScoqibsxsclhivumfzuqc
+	rseclrfsvlqicizpqpyupius
+	rxnreouuccbikuoawexlruml
+s: 
+	scegfloemptiposizieslSza
+	sdjfcakudpzidspcupupnfmi
+	sfminiasklpgfailelcovsdc
+	spypyefihSziqfrezakamxau
+	suliioiehfeswcwrbizialrp
+t: 
+	tafisprigoulbrrawgiifscc
+	tiigoaqctuqpkihiwuaxdpdi
+	toppbcnxeczopsulpsjieoyi
+	tpaodcuaoiyegiipyixrnxmc
+	tpaueokabiulmltlypjfgSfl
+	trqxqoxasSalsigfxcdiqiye
+	tsoumcrikfbdhihlyibirabs
+	tusgwpsiqpscxlatrlyrdlgg
+u: 
+v: 
+	vSddkajlqcuspcjikipipgys
+	valgroexgictpontortxvsoi
+	viacpidivamgceilwckiqtqi
+	vissacqtualcdpjiwshiqfli
+w: 
+	waeitggippsingslyagsyaiS
+	weqanehlmSsibisxfrjpffic
+	wimokigScarihaopkicrvrau
+	wlvubofaitmappiihczicago
+	wrdruiyivablpcvSacvcdSqu
+	wtbphicirrmepibridgitltd
+x: 
+	xSrurclamikSnehcygxenffu
+	xcpalpoojaxctidaopfidasl
+	xdkidgpiaxvSnxuucalsccie
+	xidsdabipiuldomiyScprpzc
+	xigpztprfxaijceSwdklmuil
+	xllrjaqizincaijSepoprdjo
+	xpviplwijclxdeslwaplacgc
+y: 
+	yaeizitiismeorviiijSycya
+	yiaicrgpmiotmcxuwuhrpcbS
+	yizSxuaoockgwoidolfeeigi
+	ylbapiwpleyxrrzupxhoddbi
+	yoloqgdpkgfuecaiziypvuxc
+	yrytvavuelcituicgseShila
+	ysmljsvaqaqgxxncliligiji
+	ysnijgaazSwsucoaulrauozi
+z: 
+	zSdagsjisgpxhccowegtqeyl
+	zcjgwaqibpqocrfpxlupwoig
+	ziwopasabimiwlqintdazsel
+	zlzuuxgcbxhpiobipcgefsii
+	zpelaldogsqceohufucibfex
+	zpictioeyuvSargufijaldil
+	zpqcfxxpuaoayrkileecgcae
+	zrussadstompwpreyiyivirc
+x = 161
+
+end testSort
+
+longTest sort solution: NO minHeaps
+
+end longTest.

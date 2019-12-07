@@ -1,0 +1,182 @@
+findHeaps
+size of words: 9
+words: 
+ant, cat, abc, ing, not, for, now, you, rot, now on to MinHeap
+string: ant   isMinHeap = true
+string: cat   isMinHeap = false
+string: abc   isMinHeap = true
+string: ing   isMinHeap = false
+string: not   isMinHeap = true
+string: for   isMinHeap = true
+string: now   isMinHeap = true
+string: you   isMinHeap = false
+string: rot   isMinHeap = false
+size of retMin: 5
+
+in string: ant, abc, not, for, now, @@@  unchecked: 4
+compare curMax: now to vec[0]: ant
+@@@  unchecked: 4
+compare curMax: now to vec[1]: abc
+@@@  unchecked: 4
+compare curMax: now to vec[2]: not
+@@@  unchecked: 4
+compare curMax: now to vec[3]: for
+@@@  unchecked: 4
+compare curMax: now to vec[4]: now
+max == vec[i]	 new max: for
+out of for loop.
+****	vec.size() = 5
+unchecked: 3
+end of while loop
+@@@  unchecked: 3
+compare curMax: for to vec[0]: ant
+@@@  unchecked: 3
+compare curMax: for to vec[1]: abc
+@@@  unchecked: 3
+compare curMax: for to vec[2]: not
+adjust max
+@@@  unchecked: 3
+compare curMax: not to vec[3]: for
+out of for loop.
+****	vec.size() = 5
+unchecked: 3
+max!=vec[3]
+vec[2] = for
+end of while loop
+@@@  unchecked: 2
+compare curMax: for to vec[0]: ant
+@@@  unchecked: 2
+compare curMax: for to vec[1]: abc
+@@@  unchecked: 2
+compare curMax: for to vec[2]: for
+max == vec[i]	 new max: abc
+out of for loop.
+****	vec.size() = 5
+unchecked: 1
+end of while loop
+@@@  unchecked: 1
+compare curMax: abc to vec[0]: ant
+adjust max
+@@@  unchecked: 1
+compare curMax: ant to vec[1]: abc
+out of for loop.
+****	vec.size() = 5
+unchecked: 1
+max!=vec[1]
+vec[0] = abc
+end of while loop
+
+solution: abc, ant, for, not, now, 
+ end sort
+
+after sort in findHeaps
+ retMin: abc, ant, for, not, now, 
+ end of findHeaps
+solution: abc, ant, for, not, now, 
+end 3 char test.
+
+*******
+@@@@@@@
+********
+
+findHeaps
+size of words: 36
+words: 
+aantz, aartz, asumz, amumz, acatz, afunzilcps, klryv, mcpjn, bpbwl, lsreh, fmxrk, ecwit, rsglr, exvtj, mxypu, nbqfg, xmuvg, fajcl, fvenh, yuhuo, rjosa, mibdn, jdbey, hkbso, mblto, uujdr, bwcrr, cgbfl, qpott, pegrw, vgajc, rgwdl, pgity, dvhed, tusip, pyvxs, now on to MinHeap
+string: aantz   isMinHeap = true
+string: aartz   isMinHeap = true
+string: asumz   isMinHeap = false
+string: amumz   isMinHeap = true
+string: acatz   isMinHeap = true
+string: afunzilcps   isMinHeap = false
+string: klryv   isMinHeap = true
+string: mcpjn   isMinHeap = false
+string: bpbwl   isMinHeap = false
+string: lsreh   isMinHeap = false
+string: fmxrk   isMinHeap = false
+string: ecwit   isMinHeap = false
+string: rsglr   isMinHeap = false
+string: exvtj   isMinHeap = false
+string: mxypu   isMinHeap = false
+string: nbqfg   isMinHeap = false
+string: xmuvg   isMinHeap = false
+string: fajcl   isMinHeap = false
+string: fvenh   isMinHeap = false
+string: yuhuo   isMinHeap = false
+string: rjosa   isMinHeap = false
+string: mibdn   isMinHeap = false
+string: jdbey   isMinHeap = false
+string: hkbso   isMinHeap = false
+string: mblto   isMinHeap = false
+string: uujdr   isMinHeap = false
+string: bwcrr   isMinHeap = false
+string: cgbfl   isMinHeap = false
+string: qpott   isMinHeap = false
+string: pegrw   isMinHeap = false
+string: vgajc   isMinHeap = false
+string: rgwdl   isMinHeap = false
+string: pgity   isMinHeap = false
+string: dvhed   isMinHeap = false
+string: tusip   isMinHeap = false
+string: pyvxs   isMinHeap = false
+size of retMin: 5
+
+in string: aantz, aartz, amumz, acatz, klryv, @@@  unchecked: 4
+compare curMax: klryv to vec[0]: aantz
+@@@  unchecked: 4
+compare curMax: klryv to vec[1]: aartz
+@@@  unchecked: 4
+compare curMax: klryv to vec[2]: amumz
+@@@  unchecked: 4
+compare curMax: klryv to vec[3]: acatz
+@@@  unchecked: 4
+compare curMax: klryv to vec[4]: klryv
+max == vec[i]	 new max: acatz
+out of for loop.
+****	vec.size() = 5
+unchecked: 3
+end of while loop
+@@@  unchecked: 3
+compare curMax: acatz to vec[0]: aantz
+@@@  unchecked: 3
+compare curMax: acatz to vec[1]: aartz
+@@@  unchecked: 3
+compare curMax: acatz to vec[2]: amumz
+adjust max
+@@@  unchecked: 3
+compare curMax: amumz to vec[3]: acatz
+out of for loop.
+****	vec.size() = 5
+unchecked: 3
+max!=vec[3]
+vec[2] = acatz
+end of while loop
+@@@  unchecked: 2
+compare curMax: acatz to vec[0]: aantz
+@@@  unchecked: 2
+compare curMax: acatz to vec[1]: aartz
+@@@  unchecked: 2
+compare curMax: acatz to vec[2]: acatz
+max == vec[i]	 new max: aartz
+out of for loop.
+****	vec.size() = 5
+unchecked: 1
+end of while loop
+@@@  unchecked: 1
+compare curMax: aartz to vec[0]: aantz
+@@@  unchecked: 1
+compare curMax: aartz to vec[1]: aartz
+max == vec[i]	 new max: aantz
+out of for loop.
+****	vec.size() = 5
+unchecked: 0
+end of while loop
+
+solution: aantz, aartz, acatz, amumz, klryv, 
+ end sort
+
+after sort in findHeaps
+ retMin: aantz, aartz, acatz, amumz, klryv, 
+ end of findHeaps
+longTest solution: aantz, aartz, acatz, amumz, klryv, 
+end longTest.

@@ -1,0 +1,564 @@
+findHeaps
+size of words: 9
+words: 
+ant, cat, abc, ing, not, for, now, you, rot, now on to MinHeap
+string: ant   isMinHeap = true
+
+string: cat   isMinHeap = false
+
+string: abc   isMinHeap = true
+
+string: ing   isMinHeap = false
+
+string: not   isMinHeap = true
+
+string: for   isMinHeap = true
+
+string: now   isMinHeap = true
+
+string: you   isMinHeap = false
+
+string: rot   isMinHeap = false
+
+size of retMin: 5
+
+in string: ant, abc, not, for, now, 
+
+solution: abc, ant, for, not, now, after sort in findHeaps
+ retMin: abc, ant, for, not, now, 
+ end of findHeaps
+solution: abc, ant, for, not, now, 
+end 3 char test.
+
+*******
+@@@@@@@
+********
+
+supercalifragilisticexpialidocious.length(): 34
+findHeaps
+size of words: 161
+words: 
+wtblhorpklicsxruwssllifi, coeigcpercnoptkrkaqcnswS, mouajlsSktxcvibotufcflfx, rafonthfsowSaoccfrlljxpc, xpzoctkucudafidagfqoycca, wicooxqlclprmlainSxxgups, wssiulmedpeoytacdexxyinS, uigejrwuxdmueadidaxahiml, vcouuipelumrelissfgiiirr, xaulkeolipboefprjaqcnuti, maprxeuehrqijlvisabomiqi, gemiyujibsftscxrsihazeic, qfzosspSsiprtsbibiwlfejo, nuicgrvgaleuvihiesiezxbp, zisiqrisvtwublzpjuxludsa, lrutlcnipilpildizreififi, erjegrklelgpauspmthsurdi, bgeiaubinuwcsskxrlradiol, pcparcrpfpnxefnafecrwaur, fgqubaixcdfuecmSvidtqpgo, aarsocpsjlsifseixlfewSni, jrmsulvswiqcigoxiihfsihf, extualwispnsvpvefaxadiql, arkigieukiorqcbivteoqiru, rgllrihonoouyugoiaecjaop, jphfpdsigoqtharaulrskclo, keblpoiaxxnamiosnxmlbiml, hxtrqeepueseriwctldrpays, rpjaoijpwincrgcslcziaiei, kazataricrnicgiccimudrri, zawsfscilxjidxndnszrwlse, ogpibemsqazetoxiqpluzfsg, vixxqpruailohuoxoipsspoS, hagxhissxsapnfjftracurqi, sSliqigcsutxfcjtjizotizS, tlfSgrbtzpocgtdSwcioasel, zcdaoivpkiyilrxrqodltisa, jcsoefhoyfgebsmileksiufa, piqprpwlquggnoirviucnsoc, miqslsfeoenSsoueapxrqpye, tSkiyaqraiacyaqSfdqskgmu, vfbuilxcbonrxahonfytxSdr, xlfiaswcqcecidztqoapblws, iafrlltrpirosraltppsqiqa, xskibrodmrpgvauduisidfji, fuuualnrtcypiaoitiyrrifx, qifStstsqgvaurbcpeffslsi, ulwihaiiiiqaepxeniglmeqa, uSbpjtulcuaouuiswojxecdo, uiedxivuhoqtjuycldlprili, ocuiqlzxguyofrjiitvcysxi, jirudoqaylxizauufodlquri, eckoiiqgnrmiiikpoSfieegc, euianieltiouzarlttbltcyi, uloiwpytnxqehibijrglddjc, nusirrycfukakiuuqsflaxea, klspyewtcaxsdomlcifihivi, adfrvueoflyeixaaaajtsdee, ngtulikefimsgixrwtnrxdwc, uSkiweaaaiagqgludSwapooc, gdocflagtelljsximfxpnsrp, bslsrSqolicazsbupeclnemi, ooipiutatSipjpmubiiuvieS, tpwoxeplhekdvobojetiiisp, vivllioiaSsrouhonfyrtrze, cxkihgqikopivlloraocgguu, trtiiuqanadpwpxaqpdSnaep, npnijohavukihrqiqcwaoiwp, hgdadfmizitlopvcrudrhucl, xezifonlclqpjdrixlwlsgut, niuiiaqrvSlcrikeishigddr, qiecsipgnaqpkiyirpecwugi, ppgutspiocfuiefaaumtnepa, lssxwisrnioaxapujrxiaojl, eieioixspppdxscuuimugamr, tabialosvlorkpnczurpgpap, vxeupljcolylasciuidtmibi, pgkeqaaivdhuuehrwlcidope, xiiegetcwlhcpfalnarizosc, bavlxfbstieotuzfsiciveec, vitcvgtowiuluasxmlfaiifs, kctizublzictwljrzSkizipe, pxlapefgfpdpjisiofrilcvi, zlfSbimsyczippjryeepmocd, wcyozipicihtkajSjibrclxl, sitictufstqsyiwixiuphSza, llyrblhonlvsirfuauegfisx, gihesisatpfcmpqikizlhxng, yrhiofqaosseoptujittnSyc, beagaspihgisrcatfahtnlcs, iezijlzdfiipjswivtuciitl, zitcsigfkrmrveqrdsaikcpr, jisicxyijsmgbceckcxegucp, liolzaxadanelgvusikorlhl, sSvihenebScirsccxrrimiwl, vxelyppcsgkdlireyceapavf, jrscilvxtindmosanioejlbc, rihinlafepbiolfixuligahi, aomipldrvlmrqfhcerullici, zcrphitateoSgefsxcirotha, rurisatuhiyiolvliibigiar, wcexxiqieciomtxrifgelatg, puiejiqabivlfuaeytvuperc, goeijospzialqscelxelficg, setrqcuikrxpmsgfiiuamogt, blkixtwxfsbijpxayanreemd, xcxiudfSfdsazcyuhceihcvc, ixfiddkaxlocaupfkfarcuvs, eividiecrftsfilxboyrccle, gfpiacgtostcvicujihobaql, wifidixcjczueocsdouiditi, mieovazotczitoaarioapuga, dafialouacnpboaixpapngbi, ypaenoeroibibidxyibSbijs, govlmedopoylwcogzShSdiic, uturnxuicorrhaeuerioxiwp, mapSvuaespkdniziricijiil, toraxxcxjeetkslrqruameoc, iiytjlastuifyidimlwsjcal, qaqoySisoptiiietseqtfowi, xudutiettelepcfotptifxkc, xieeqfpijstidalaoleoxehi, qlduvltcaczpnpjuusdlyluu, cerSrcxcgcrifrgsnibcwsli, tiiasfvioshuxijlueblguxc, csjevcdradtsbiaiwuaivsxl, luwupxgiadmahdlxoixlclwd, cigcwcyxvszauddidcjskilg, eSfpriuiulagdlrdngmiecvi, jSyecrmlypilbsfxdingsdvp, biqezibcpcvrqilgdrulliia, upvubcdidpgcuiuSkeaioffi, gpxpyluaftbfvtjasuupyiec, limiqrxisicisitciSiuelve, iSpehckSpirlupopzatojexS, kaafmidiyigidcjScrqefrbc, kaapmusgylqajSaibesegtld, nivipigaixtSogksvrbiwlxu, ogaeiilekalctipdhreaqeuS, cpseaaoirrrrepxxpimivShg, uiercejsjpzchgaikupooayg, nloxotktjtasziqazeicycal, sakiypsiirzialclneeiecni, labukdniqihifuptiuqitcni, jivgagyivihrgunrfifaoimi, eaaSwlwcepsejiqpjiwlcaas, qgyfgokpwaguzaolfrirzokr, lcoioulrrlelhpmieaxasatc, yohilttomoqgbttaeiceiioe, yraShrvicgeiwiouritlpcbu, vcsfmgccvedlisvsvckiruwa, wouuwxssmcpcmtbocroiuici, diprriarcinpzcocgsvgvdap, wsggzenfjsllbcjoiipaatkl, hiwshellwibcwapijojiysce, xxgcrcbicomatoylzayayxru, appiiecetshovskrkenswage, nolficmdeseilidpvunafixi, yidpiiqgsimiapocraqskiyc, ketsvaflhowlxfcugcnckibp, ppjdtgbcclhtgcqigclltpvi, now on to MinHeap
+string: wtblhorpklicsxruwssllifi   isMinHeap = false
+
+string: coeigcpercnoptkrkaqcnswS   isMinHeap = false
+
+string: mouajlsSktxcvibotufcflfx   isMinHeap = false
+
+string: rafonthfsowSaoccfrlljxpc   isMinHeap = false
+
+string: xpzoctkucudafidagfqoycca   isMinHeap = false
+
+string: wicooxqlclprmlainSxxgups   isMinHeap = false
+
+string: wssiulmedpeoytacdexxyinS   isMinHeap = false
+
+string: uigejrwuxdmueadidaxahiml   isMinHeap = false
+
+string: vcouuipelumrelissfgiiirr   isMinHeap = false
+
+string: xaulkeolipboefprjaqcnuti   isMinHeap = false
+
+string: maprxeuehrqijlvisabomiqi   isMinHeap = false
+
+string: gemiyujibsftscxrsihazeic   isMinHeap = false
+
+string: qfzosspSsiprtsbibiwlfejo   isMinHeap = false
+
+string: nuicgrvgaleuvihiesiezxbp   isMinHeap = false
+
+string: zisiqrisvtwublzpjuxludsa   isMinHeap = false
+
+string: lrutlcnipilpildizreififi   isMinHeap = false
+
+string: erjegrklelgpauspmthsurdi   isMinHeap = false
+
+string: bgeiaubinuwcsskxrlradiol   isMinHeap = false
+
+string: pcparcrpfpnxefnafecrwaur   isMinHeap = false
+
+string: fgqubaixcdfuecmSvidtqpgo   isMinHeap = false
+
+string: aarsocpsjlsifseixlfewSni   isMinHeap = false
+
+string: jrmsulvswiqcigoxiihfsihf   isMinHeap = false
+
+string: extualwispnsvpvefaxadiql   isMinHeap = false
+
+string: arkigieukiorqcbivteoqiru   isMinHeap = false
+
+string: rgllrihonoouyugoiaecjaop   isMinHeap = false
+
+string: jphfpdsigoqtharaulrskclo   isMinHeap = false
+
+string: keblpoiaxxnamiosnxmlbiml   isMinHeap = false
+
+string: hxtrqeepueseriwctldrpays   isMinHeap = false
+
+string: rpjaoijpwincrgcslcziaiei   isMinHeap = false
+
+string: kazataricrnicgiccimudrri   isMinHeap = false
+
+string: zawsfscilxjidxndnszrwlse   isMinHeap = false
+
+string: ogpibemsqazetoxiqpluzfsg   isMinHeap = false
+
+string: vixxqpruailohuoxoipsspoS   isMinHeap = false
+
+string: hagxhissxsapnfjftracurqi   isMinHeap = false
+
+string: sSliqigcsutxfcjtjizotizS   isMinHeap = false
+
+string: tlfSgrbtzpocgtdSwcioasel   isMinHeap = false
+
+string: zcdaoivpkiyilrxrqodltisa   isMinHeap = false
+
+string: jcsoefhoyfgebsmileksiufa   isMinHeap = false
+
+string: piqprpwlquggnoirviucnsoc   isMinHeap = false
+
+string: miqslsfeoenSsoueapxrqpye   isMinHeap = false
+
+string: tSkiyaqraiacyaqSfdqskgmu   isMinHeap = false
+
+string: vfbuilxcbonrxahonfytxSdr   isMinHeap = false
+
+string: xlfiaswcqcecidztqoapblws   isMinHeap = false
+
+string: iafrlltrpirosraltppsqiqa   isMinHeap = false
+
+string: xskibrodmrpgvauduisidfji   isMinHeap = false
+
+string: fuuualnrtcypiaoitiyrrifx   isMinHeap = false
+
+string: qifStstsqgvaurbcpeffslsi   isMinHeap = false
+
+string: ulwihaiiiiqaepxeniglmeqa   isMinHeap = false
+
+string: uSbpjtulcuaouuiswojxecdo   isMinHeap = false
+
+string: uiedxivuhoqtjuycldlprili   isMinHeap = false
+
+string: ocuiqlzxguyofrjiitvcysxi   isMinHeap = false
+
+string: jirudoqaylxizauufodlquri   isMinHeap = false
+
+string: eckoiiqgnrmiiikpoSfieegc   isMinHeap = false
+
+string: euianieltiouzarlttbltcyi   isMinHeap = false
+
+string: uloiwpytnxqehibijrglddjc   isMinHeap = false
+
+string: nusirrycfukakiuuqsflaxea   isMinHeap = false
+
+string: klspyewtcaxsdomlcifihivi   isMinHeap = false
+
+string: adfrvueoflyeixaaaajtsdee   isMinHeap = false
+
+string: ngtulikefimsgixrwtnrxdwc   isMinHeap = false
+
+string: uSkiweaaaiagqgludSwapooc   isMinHeap = false
+
+string: gdocflagtelljsximfxpnsrp   isMinHeap = false
+
+string: bslsrSqolicazsbupeclnemi   isMinHeap = false
+
+string: ooipiutatSipjpmubiiuvieS   isMinHeap = false
+
+string: tpwoxeplhekdvobojetiiisp   isMinHeap = false
+
+string: vivllioiaSsrouhonfyrtrze   isMinHeap = false
+
+string: cxkihgqikopivlloraocgguu   isMinHeap = false
+
+string: trtiiuqanadpwpxaqpdSnaep   isMinHeap = false
+
+string: npnijohavukihrqiqcwaoiwp   isMinHeap = false
+
+string: hgdadfmizitlopvcrudrhucl   isMinHeap = false
+
+string: xezifonlclqpjdrixlwlsgut   isMinHeap = false
+
+string: niuiiaqrvSlcrikeishigddr   isMinHeap = false
+
+string: qiecsipgnaqpkiyirpecwugi   isMinHeap = false
+
+string: ppgutspiocfuiefaaumtnepa   isMinHeap = false
+
+string: lssxwisrnioaxapujrxiaojl   isMinHeap = false
+
+string: eieioixspppdxscuuimugamr   isMinHeap = false
+
+string: tabialosvlorkpnczurpgpap   isMinHeap = false
+
+string: vxeupljcolylasciuidtmibi   isMinHeap = false
+
+string: pgkeqaaivdhuuehrwlcidope   isMinHeap = false
+
+string: xiiegetcwlhcpfalnarizosc   isMinHeap = false
+
+string: bavlxfbstieotuzfsiciveec   isMinHeap = false
+
+string: vitcvgtowiuluasxmlfaiifs   isMinHeap = false
+
+string: kctizublzictwljrzSkizipe   isMinHeap = false
+
+string: pxlapefgfpdpjisiofrilcvi   isMinHeap = false
+
+string: zlfSbimsyczippjryeepmocd   isMinHeap = false
+
+string: wcyozipicihtkajSjibrclxl   isMinHeap = false
+
+string: sitictufstqsyiwixiuphSza   isMinHeap = false
+
+string: llyrblhonlvsirfuauegfisx   isMinHeap = false
+
+string: gihesisatpfcmpqikizlhxng   isMinHeap = false
+
+string: yrhiofqaosseoptujittnSyc   isMinHeap = false
+
+string: beagaspihgisrcatfahtnlcs   isMinHeap = false
+
+string: iezijlzdfiipjswivtuciitl   isMinHeap = false
+
+string: zitcsigfkrmrveqrdsaikcpr   isMinHeap = false
+
+string: jisicxyijsmgbceckcxegucp   isMinHeap = false
+
+string: liolzaxadanelgvusikorlhl   isMinHeap = false
+
+string: sSvihenebScirsccxrrimiwl   isMinHeap = false
+
+string: vxelyppcsgkdlireyceapavf   isMinHeap = false
+
+string: jrscilvxtindmosanioejlbc   isMinHeap = false
+
+string: rihinlafepbiolfixuligahi   isMinHeap = false
+
+string: aomipldrvlmrqfhcerullici   isMinHeap = false
+
+string: zcrphitateoSgefsxcirotha   isMinHeap = false
+
+string: rurisatuhiyiolvliibigiar   isMinHeap = false
+
+string: wcexxiqieciomtxrifgelatg   isMinHeap = false
+
+string: puiejiqabivlfuaeytvuperc   isMinHeap = false
+
+string: goeijospzialqscelxelficg   isMinHeap = false
+
+string: setrqcuikrxpmsgfiiuamogt   isMinHeap = false
+
+string: blkixtwxfsbijpxayanreemd   isMinHeap = false
+
+string: xcxiudfSfdsazcyuhceihcvc   isMinHeap = false
+
+string: ixfiddkaxlocaupfkfarcuvs   isMinHeap = false
+
+string: eividiecrftsfilxboyrccle   isMinHeap = false
+
+string: gfpiacgtostcvicujihobaql   isMinHeap = false
+
+string: wifidixcjczueocsdouiditi   isMinHeap = false
+
+string: mieovazotczitoaarioapuga   isMinHeap = false
+
+string: dafialouacnpboaixpapngbi   isMinHeap = false
+
+string: ypaenoeroibibidxyibSbijs   isMinHeap = false
+
+string: govlmedopoylwcogzShSdiic   isMinHeap = false
+
+string: uturnxuicorrhaeuerioxiwp   isMinHeap = false
+
+string: mapSvuaespkdniziricijiil   isMinHeap = false
+
+string: toraxxcxjeetkslrqruameoc   isMinHeap = false
+
+string: iiytjlastuifyidimlwsjcal   isMinHeap = false
+
+string: qaqoySisoptiiietseqtfowi   isMinHeap = false
+
+string: xudutiettelepcfotptifxkc   isMinHeap = false
+
+string: xieeqfpijstidalaoleoxehi   isMinHeap = false
+
+string: qlduvltcaczpnpjuusdlyluu   isMinHeap = false
+
+string: cerSrcxcgcrifrgsnibcwsli   isMinHeap = false
+
+string: tiiasfvioshuxijlueblguxc   isMinHeap = false
+
+string: csjevcdradtsbiaiwuaivsxl   isMinHeap = false
+
+string: luwupxgiadmahdlxoixlclwd   isMinHeap = false
+
+string: cigcwcyxvszauddidcjskilg   isMinHeap = false
+
+string: eSfpriuiulagdlrdngmiecvi   isMinHeap = false
+
+string: jSyecrmlypilbsfxdingsdvp   isMinHeap = false
+
+string: biqezibcpcvrqilgdrulliia   isMinHeap = false
+
+string: upvubcdidpgcuiuSkeaioffi   isMinHeap = false
+
+string: gpxpyluaftbfvtjasuupyiec   isMinHeap = false
+
+string: limiqrxisicisitciSiuelve   isMinHeap = false
+
+string: iSpehckSpirlupopzatojexS   isMinHeap = false
+
+string: kaafmidiyigidcjScrqefrbc   isMinHeap = false
+
+string: kaapmusgylqajSaibesegtld   isMinHeap = false
+
+string: nivipigaixtSogksvrbiwlxu   isMinHeap = false
+
+string: ogaeiilekalctipdhreaqeuS   isMinHeap = false
+
+string: cpseaaoirrrrepxxpimivShg   isMinHeap = false
+
+string: uiercejsjpzchgaikupooayg   isMinHeap = false
+
+string: nloxotktjtasziqazeicycal   isMinHeap = false
+
+string: sakiypsiirzialclneeiecni   isMinHeap = false
+
+string: labukdniqihifuptiuqitcni   isMinHeap = false
+
+string: jivgagyivihrgunrfifaoimi   isMinHeap = false
+
+string: eaaSwlwcepsejiqpjiwlcaas   isMinHeap = false
+
+string: qgyfgokpwaguzaolfrirzokr   isMinHeap = false
+
+string: lcoioulrrlelhpmieaxasatc   isMinHeap = false
+
+string: yohilttomoqgbttaeiceiioe   isMinHeap = false
+
+string: yraShrvicgeiwiouritlpcbu   isMinHeap = false
+
+string: vcsfmgccvedlisvsvckiruwa   isMinHeap = false
+
+string: wouuwxssmcpcmtbocroiuici   isMinHeap = false
+
+string: diprriarcinpzcocgsvgvdap   isMinHeap = false
+
+string: wsggzenfjsllbcjoiipaatkl   isMinHeap = false
+
+string: hiwshellwibcwapijojiysce   isMinHeap = false
+
+string: xxgcrcbicomatoylzayayxru   isMinHeap = false
+
+string: appiiecetshovskrkenswage   isMinHeap = false
+
+string: nolficmdeseilidpvunafixi   isMinHeap = false
+
+string: yidpiiqgsimiapocraqskiyc   isMinHeap = false
+
+string: ketsvaflhowlxfcugcnckibp   isMinHeap = false
+
+string: ppjdtgbcclhtgcqigclltpvi   isMinHeap = false
+
+size of retMin: 0
+
+in string: nfbebpacwahcqixtoixxbcee, rcnSyrxrorloaewxpuoxwaed, qlbolividubrmfropeniqdap, rroScoqibsxsclhivumfzuqc, jutpalheqrnimpwicxiluclr, efaphftawssiqroiwsqclfwc, rxnreouuccbikuoawexlruml, tpaueokabiulmltlypjfgSfl, lSjissyiuiiitxrafggrbizf, crlcyauogSollewxptdccsdo, biptudpidixSfacrjiisblir, yrytvavuelcituicgseShila, jaxdrosrhrbcqidotucurlua, dceidijpyswsjreuxxpiqoul, biffppzuosdrvpciyrddnaet, paiaxskxwcnificcolvirosp, xSrurclamikSnehcygxenffu, hljlgfuipiucqivpolvstieo, bulaiacsitySresfcdwitanx, ceuSuaornuerbiactinfeiyt, klflvodemumikpnigxoatinl, wrdruiyivablpcvSacvcdSqu, eixabiqfhabogidcaazfxxca, lxpafcccmfjetuhodihakiwl, dchabotgearserroalvpwxqc, bsxeilwibclszovsaSdsjucd, ricaiphxccrcxlxiaargeolS, movufpearfgevfflfSpltctS, sdjfcakudpzidspcupupnfmi, coacroyaccbtqrjuvcbSiiwr, toppbcnxeczopsulpsjieoyi, fixpsipizuqcvinllcglmcnl, liwttinciSlpkicimilifdmi, qrsiopylggosvgdfqeboilmo, pcvraububatonsyidlursebc, tsoumcrikfbdhihlyibirabs, eppulisdtusizrqryltirlqg, edkificxzSdabiwiyuftoisu, gexSsifijucircuizinrnlla, gtugdiviapllcsiaigqikixi, nliSeduoqaxardxolipoorai, mcvpaiyicirixajpelpiiawe, gfkccahikopgdinozuwicpaS, napuprlcklrlugriloagbima, isqcfocujcbfgiliuuextstr, xpviplwijclxdeslwaplacgc, aiosoukcpcqlmpborixobloi, kupeqikrzgofiixatijxpsug, agkcgsiojslimpmrelxcugar, hcucalipruqiupoisareklnl, scegfloemptiposizieslSza, dahtyenxaiwixcwefaxujpip, rseclrfsvlqicizpqpyupius, trqxqoxasSalsigfxcdiqiye, tiigoaqctuqpkihiwuaxdpdi, yaeizitiismeorviiijSycya, jgurcpvipsjrxajgwaxiffdl, asxfkphoiokofpeiathreiwu, mimueinemforetmSntqiaijo, bsgsqrviwlqSzlmlfunistri, paichtqidesiasaidldpdipc, mimcwioxcllurisrciccvidt, acqxhrjiiuxpxiwiacliqpqs, zSdagsjisgpxhccowegtqeyl, zpictioeyuvSargufijaldil, cewoyspffdiujpxanidavtyi, gSjpqttuhldclisetslpnuft, rpqujcjeapyuxcladpdeixwc, rerikitucoviilkaetusgxtx, dirppeaaesgczilipiycbcfc, xidsdabipiuldomiyScprpzc, brdiyeesaewlxipioixoyuoc, tafisprigoulbrrawgiifscc, ffqodldiuszabpofccdctrtg, wlvubofaitmappiihczicago, cukiaiceitjuwSzxgcagraux, yoloqgdpkgfuecaiziypvuxc, pgnckcviufaivuvsylglvpdr, mreufonspdacksfgxlxuzcul, ookikixuoimrfllicSnaztyp, ylbapiwpleyxrrzupxhoddbi, dehSpprdpaeemodxvoucjpba, oftrjeyieerldabojibiicsl, cadtrivdcsrpkimijcfoiiar, aaxoqcicnljfvlolhckrcrro, crbadintfiwuuoxtqgqpzcdt, rocuwizieaixflhiqsyeiana, gebcqszuugzpnteoylrpuczu, ipfltpgoaaqiziditpsfkSdl, pdtoqSvoaldexlqudohphlci, moqrsimohioSvtnihiwlgcic, alitedqsedgfviqpplzcuoqp, ziwopasabimiwlqintdazsel, nryoqcfihrautfnSjphdlxor, mahgidfffllcvraswculbeza, yizSxuaoockgwoidolfeeigi, qcvcfibcuszdcrhadihowefe, waeitggippsingslyagsyaiS, nidicrulciicvczohxsfjira, xllrjaqizincaijSepoprdjo, aSguyczdqapdoixlnSaitazt, iswpuovlzahcqimdtroidfdp, zlzuuxgcbxhpiobipcgefsii, vSddkajlqcuspcjikipipgys, ddsejtssfirgcsqeyxeiksge, spypyefihSziqfrezakamxau, rSargatgdgsowtlivdgoacoi, bacogsbStrdsviwlxrrieeni, tusgwpsiqpscxlatrlyrdlgg, dibswioahioSypitlrasiShi, hlscapipioqaapwiyijozrci, ealckozacindeioiocvolrqe, zpelaldogsqceohufucibfex, daoidipebirlqieictapoofi, zcjgwaqibpqocrfpxlupwoig, zrussadstompwpreyiyivirc, brfcyuzlexarhrlcneiixdls, bddsgewpucmxpptleljirapa, ysmljsvaqaqgxxncliligiji, viacpidivamgceilwckiqtqi, mescluxayalrtuoSecyuorjg, eSldvcvrkieezenrldsSuloc, suliioiehfeswcwrbizialrp, wtbphicirrmepibridgitltd, sfminiasklpgfailelcovsdc, lujigredzubSblyuciiivuaa, xigpztprfxaijceSwdklmuil, weqanehlmSsibisxfrjpffic, iefazivcaSdilepoxpsigiaf, pSkgdrtuzcmlmdwsoxdxpteS, valgroexgictpontortxvsoi, xcpalpoojaxctidaopfidasl, icmirrsieSirpdclpxpeuaua, jemlklziplmociwreeviyiel, nekijiarsizayapiwpqtcpte, mibxuaalcaropfadvacpcfip, zpqcfxxpuaoayrkileecgcae, jiglgspijrclalziyuriqaeu, gdjiqatajileharafckipidi, eanllgrlyivihryezthxpxkf, ysnijgaazSwsucoaulrauozi, hioixsofwiaaqazpfuplwikp, jaupliqotarfzicxxrxpfiyu, xdkidgpiaxvSnxuucalsccie, fiqiaireiunccctswccihrma, jcocisledskSiixpwllcvaai, eukshdwstisikizierfioaja, iitinecisibedcrlxauaotdt, krecoexsyckliiuptclinoce, cposctcxbifiodmpoetiapki, gizioicivoppsikcqcnizfta, tpaodcuaoiyegiipyixrnxmc, qlupbourdptrhlblsxvdoeva, delihtnsvigciieafirroupd, vissacqtualcdpjiwshiqfli, yiaicrgpmiotmcxuwuhrpcbS, wimokigScarihaopkicrvrau, aowSilsiwitlcistsdglviri, diepoclilrfatfaiolulyeai, qcyswfjcwsyrhrvipcbcjtpl, ilmtgpwihlqiufjcfSpugSwo, 
+
+solution: aSguyczdqapdoixlnSaitazt, aaxoqcicnljfvlolhckrcrro, acqxhrjiiuxpxiwiacliqpqs, agkcgsiojslimpmrelxcugar, aiosoukcpcqlmpborixobloi, alitedqsedgfviqpplzcuoqp, aowSilsiwitlcistsdglviri, asxfkphoiokofpeiathreiwu, bacogsbStrdsviwlxrrieeni, bddsgewpucmxpptleljirapa, biffppzuosdrvpciyrddnaet, biptudpidixSfacrjiisblir, brdiyeesaewlxipioixoyuoc, brfcyuzlexarhrlcneiixdls, bsgsqrviwlqSzlmlfunistri, bsxeilwibclszovsaSdsjucd, bulaiacsitySresfcdwitanx, cadtrivdcsrpkimijcfoiiar, ceuSuaornuerbiactinfeiyt, cewoyspffdiujpxanidavtyi, coacroyaccbtqrjuvcbSiiwr, cposctcxbifiodmpoetiapki, crbadintfiwuuoxtqgqpzcdt, crlcyauogSollewxptdccsdo, cukiaiceitjuwSzxgcagraux, dahtyenxaiwixcwefaxujpip, daoidipebirlqieictapoofi, dceidijpyswsjreuxxpiqoul, dchabotgearserroalvpwxqc, ddsejtssfirgcsqeyxeiksge, dehSpprdpaeemodxvoucjpba, delihtnsvigciieafirroupd, dibswioahioSypitlrasiShi, diepoclilrfatfaiolulyeai, dirppeaaesgczilipiycbcfc, eSldvcvrkieezenrldsSuloc, ealckozacindeioiocvolrqe, eanllgrlyivihryezthxpxkf, edkificxzSdabiwiyuftoisu, efaphftawssiqroiwsqclfwc, eixabiqfhabogidcaazfxxca, eppulisdtusizrqryltirlqg, eukshdwstisikizierfioaja, ffqodldiuszabpofccdctrtg, fiqiaireiunccctswccihrma, fixpsipizuqcvinllcglmcnl, gSjpqttuhldclisetslpnuft, gdjiqatajileharafckipidi, gebcqszuugzpnteoylrpuczu, gexSsifijucircuizinrnlla, gfkccahikopgdinozuwicpaS, gizioicivoppsikcqcnizfta, gtugdiviapllcsiaigqikixi, hcucalipruqiupoisareklnl, hioixsofwiaaqazpfuplwikp, hljlgfuipiucqivpolvstieo, hlscapipioqaapwiyijozrci, icmirrsieSirpdclpxpeuaua, iefazivcaSdilepoxpsigiaf, iitinecisibedcrlxauaotdt, ilmtgpwihlqiufjcfSpugSwo, ipfltpgoaaqiziditpsfkSdl, isqcfocujcbfgiliuuextstr, iswpuovlzahcqimdtroidfdp, jaupliqotarfzicxxrxpfiyu, jaxdrosrhrbcqidotucurlua, jcocisledskSiixpwllcvaai, jemlklziplmociwreeviyiel, jgurcpvipsjrxajgwaxiffdl, jiglgspijrclalziyuriqaeu, jutpalheqrnimpwicxiluclr, klflvodemumikpnigxoatinl, krecoexsyckliiuptclinoce, kupeqikrzgofiixatijxpsug, lSjissyiuiiitxrafggrbizf, liwttinciSlpkicimilifdmi, lujigredzubSblyuciiivuaa, lxpafcccmfjetuhodihakiwl, mahgidfffllcvraswculbeza, mcvpaiyicirixajpelpiiawe, mescluxayalrtuoSecyuorjg, mibxuaalcaropfadvacpcfip, mimcwioxcllurisrciccvidt, mimueinemforetmSntqiaijo, moqrsimohioSvtnihiwlgcic, movufpearfgevfflfSpltctS, mreufonspdacksfgxlxuzcul, napuprlcklrlugriloagbima, nekijiarsizayapiwpqtcpte, nfbebpacwahcqixtoixxbcee, nidicrulciicvczohxsfjira, nliSeduoqaxardxolipoorai, nryoqcfihrautfnSjphdlxor, oftrjeyieerldabojibiicsl, ookikixuoimrfllicSnaztyp, pSkgdrtuzcmlmdwsoxdxpteS, paiaxskxwcnificcolvirosp, paichtqidesiasaidldpdipc, pcvraububatonsyidlursebc, pdtoqSvoaldexlqudohphlci, pgnckcviufaivuvsylglvpdr, qcvcfibcuszdcrhadihowefe, qcyswfjcwsyrhrvipcbcjtpl, qlbolividubrmfropeniqdap, qlupbourdptrhlblsxvdoeva, qrsiopylggosvgdfqeboilmo, rSargatgdgsowtlivdgoacoi, rcnSyrxrorloaewxpuoxwaed, rerikitucoviilkaetusgxtx, ricaiphxccrcxlxiaargeolS, rocuwizieaixflhiqsyeiana, rpqujcjeapyuxcladpdeixwc, rroScoqibsxsclhivumfzuqc, rseclrfsvlqicizpqpyupius, rxnreouuccbikuoawexlruml, scegfloemptiposizieslSza, sdjfcakudpzidspcupupnfmi, sfminiasklpgfailelcovsdc, spypyefihSziqfrezakamxau, suliioiehfeswcwrbizialrp, tafisprigoulbrrawgiifscc, tiigoaqctuqpkihiwuaxdpdi, toppbcnxeczopsulpsjieoyi, tpaodcuaoiyegiipyixrnxmc, tpaueokabiulmltlypjfgSfl, trqxqoxasSalsigfxcdiqiye, tsoumcrikfbdhihlyibirabs, tusgwpsiqpscxlatrlyrdlgg, vSddkajlqcuspcjikipipgys, valgroexgictpontortxvsoi, viacpidivamgceilwckiqtqi, vissacqtualcdpjiwshiqfli, waeitggippsingslyagsyaiS, weqanehlmSsibisxfrjpffic, wimokigScarihaopkicrvrau, wlvubofaitmappiihczicago, wrdruiyivablpcvSacvcdSqu, wtbphicirrmepibridgitltd, xSrurclamikSnehcygxenffu, xcpalpoojaxctidaopfidasl, xdkidgpiaxvSnxuucalsccie, xidsdabipiuldomiyScprpzc, xigpztprfxaijceSwdklmuil, xllrjaqizincaijSepoprdjo, xpviplwijclxdeslwaplacgc, yaeizitiismeorviiijSycya, yiaicrgpmiotmcxuwuhrpcbS, yizSxuaoockgwoidolfeeigi, ylbapiwpleyxrrzupxhoddbi, yoloqgdpkgfuecaiziypvuxc, yrytvavuelcituicgseShila, ysmljsvaqaqgxxncliligiji, ysnijgaazSwsucoaulrauozi, zSdagsjisgpxhccowegtqeyl, zcjgwaqibpqocrfpxlupwoig, ziwopasabimiwlqintdazsel, zlzuuxgcbxhpiobipcgefsii, zpelaldogsqceohufucibfex, zpictioeyuvSargufijaldil, zpqcfxxpuaoayrkileecgcae, zrussadstompwpreyiyivirc, 
+***
+printing testSort: 
+a: 
+	aSguyczdqapdoixlnSaitazt
+	aaxoqcicnljfvlolhckrcrro
+	acqxhrjiiuxpxiwiacliqpqs
+	agkcgsiojslimpmrelxcugar
+	aiosoukcpcqlmpborixobloi
+	alitedqsedgfviqpplzcuoqp
+	aowSilsiwitlcistsdglviri
+	asxfkphoiokofpeiathreiwu
+b: 
+	bacogsbStrdsviwlxrrieeni
+	bddsgewpucmxpptleljirapa
+	biffppzuosdrvpciyrddnaet
+	biptudpidixSfacrjiisblir
+	brdiyeesaewlxipioixoyuoc
+	brfcyuzlexarhrlcneiixdls
+	bsgsqrviwlqSzlmlfunistri
+	bsxeilwibclszovsaSdsjucd
+	bulaiacsitySresfcdwitanx
+c: 
+	cadtrivdcsrpkimijcfoiiar
+	ceuSuaornuerbiactinfeiyt
+	cewoyspffdiujpxanidavtyi
+	coacroyaccbtqrjuvcbSiiwr
+	cposctcxbifiodmpoetiapki
+	crbadintfiwuuoxtqgqpzcdt
+	crlcyauogSollewxptdccsdo
+	cukiaiceitjuwSzxgcagraux
+d: 
+	dahtyenxaiwixcwefaxujpip
+	daoidipebirlqieictapoofi
+	dceidijpyswsjreuxxpiqoul
+	dchabotgearserroalvpwxqc
+	ddsejtssfirgcsqeyxeiksge
+	dehSpprdpaeemodxvoucjpba
+	delihtnsvigciieafirroupd
+	dibswioahioSypitlrasiShi
+	diepoclilrfatfaiolulyeai
+	dirppeaaesgczilipiycbcfc
+e: 
+	eSldvcvrkieezenrldsSuloc
+	ealckozacindeioiocvolrqe
+	eanllgrlyivihryezthxpxkf
+	edkificxzSdabiwiyuftoisu
+	efaphftawssiqroiwsqclfwc
+	eixabiqfhabogidcaazfxxca
+	eppulisdtusizrqryltirlqg
+	eukshdwstisikizierfioaja
+f: 
+	ffqodldiuszabpofccdctrtg
+	fiqiaireiunccctswccihrma
+	fixpsipizuqcvinllcglmcnl
+g: 
+	gSjpqttuhldclisetslpnuft
+	gdjiqatajileharafckipidi
+	gebcqszuugzpnteoylrpuczu
+	gexSsifijucircuizinrnlla
+	gfkccahikopgdinozuwicpaS
+	gizioicivoppsikcqcnizfta
+	gtugdiviapllcsiaigqikixi
+h: 
+	hcucalipruqiupoisareklnl
+	hioixsofwiaaqazpfuplwikp
+	hljlgfuipiucqivpolvstieo
+	hlscapipioqaapwiyijozrci
+i: 
+	icmirrsieSirpdclpxpeuaua
+	iefazivcaSdilepoxpsigiaf
+	iitinecisibedcrlxauaotdt
+	ilmtgpwihlqiufjcfSpugSwo
+	ipfltpgoaaqiziditpsfkSdl
+	isqcfocujcbfgiliuuextstr
+	iswpuovlzahcqimdtroidfdp
+j: 
+	jaupliqotarfzicxxrxpfiyu
+	jaxdrosrhrbcqidotucurlua
+	jcocisledskSiixpwllcvaai
+	jemlklziplmociwreeviyiel
+	jgurcpvipsjrxajgwaxiffdl
+	jiglgspijrclalziyuriqaeu
+	jutpalheqrnimpwicxiluclr
+k: 
+	klflvodemumikpnigxoatinl
+	krecoexsyckliiuptclinoce
+	kupeqikrzgofiixatijxpsug
+l: 
+	lSjissyiuiiitxrafggrbizf
+	liwttinciSlpkicimilifdmi
+	lujigredzubSblyuciiivuaa
+	lxpafcccmfjetuhodihakiwl
+m: 
+	mahgidfffllcvraswculbeza
+	mcvpaiyicirixajpelpiiawe
+	mescluxayalrtuoSecyuorjg
+	mibxuaalcaropfadvacpcfip
+	mimcwioxcllurisrciccvidt
+	mimueinemforetmSntqiaijo
+	moqrsimohioSvtnihiwlgcic
+	movufpearfgevfflfSpltctS
+	mreufonspdacksfgxlxuzcul
+n: 
+	napuprlcklrlugriloagbima
+	nekijiarsizayapiwpqtcpte
+	nfbebpacwahcqixtoixxbcee
+	nidicrulciicvczohxsfjira
+	nliSeduoqaxardxolipoorai
+	nryoqcfihrautfnSjphdlxor
+o: 
+	oftrjeyieerldabojibiicsl
+	ookikixuoimrfllicSnaztyp
+p: 
+	pSkgdrtuzcmlmdwsoxdxpteS
+	paiaxskxwcnificcolvirosp
+	paichtqidesiasaidldpdipc
+	pcvraububatonsyidlursebc
+	pdtoqSvoaldexlqudohphlci
+	pgnckcviufaivuvsylglvpdr
+q: 
+	qcvcfibcuszdcrhadihowefe
+	qcyswfjcwsyrhrvipcbcjtpl
+	qlbolividubrmfropeniqdap
+	qlupbourdptrhlblsxvdoeva
+	qrsiopylggosvgdfqeboilmo
+r: 
+	rSargatgdgsowtlivdgoacoi
+	rcnSyrxrorloaewxpuoxwaed
+	rerikitucoviilkaetusgxtx
+	ricaiphxccrcxlxiaargeolS
+	rocuwizieaixflhiqsyeiana
+	rpqujcjeapyuxcladpdeixwc
+	rroScoqibsxsclhivumfzuqc
+	rseclrfsvlqicizpqpyupius
+	rxnreouuccbikuoawexlruml
+s: 
+	scegfloemptiposizieslSza
+	sdjfcakudpzidspcupupnfmi
+	sfminiasklpgfailelcovsdc
+	spypyefihSziqfrezakamxau
+	suliioiehfeswcwrbizialrp
+t: 
+	tafisprigoulbrrawgiifscc
+	tiigoaqctuqpkihiwuaxdpdi
+	toppbcnxeczopsulpsjieoyi
+	tpaodcuaoiyegiipyixrnxmc
+	tpaueokabiulmltlypjfgSfl
+	trqxqoxasSalsigfxcdiqiye
+	tsoumcrikfbdhihlyibirabs
+	tusgwpsiqpscxlatrlyrdlgg
+u: 
+v: 
+	vSddkajlqcuspcjikipipgys
+	valgroexgictpontortxvsoi
+	viacpidivamgceilwckiqtqi
+	vissacqtualcdpjiwshiqfli
+w: 
+	waeitggippsingslyagsyaiS
+	weqanehlmSsibisxfrjpffic
+	wimokigScarihaopkicrvrau
+	wlvubofaitmappiihczicago
+	wrdruiyivablpcvSacvcdSqu
+	wtbphicirrmepibridgitltd
+x: 
+	xSrurclamikSnehcygxenffu
+	xcpalpoojaxctidaopfidasl
+	xdkidgpiaxvSnxuucalsccie
+	xidsdabipiuldomiyScprpzc
+	xigpztprfxaijceSwdklmuil
+	xllrjaqizincaijSepoprdjo
+	xpviplwijclxdeslwaplacgc
+y: 
+	yaeizitiismeorviiijSycya
+	yiaicrgpmiotmcxuwuhrpcbS
+	yizSxuaoockgwoidolfeeigi
+	ylbapiwpleyxrrzupxhoddbi
+	yoloqgdpkgfuecaiziypvuxc
+	yrytvavuelcituicgseShila
+	ysmljsvaqaqgxxncliligiji
+	ysnijgaazSwsucoaulrauozi
+z: 
+	zSdagsjisgpxhccowegtqeyl
+	zcjgwaqibpqocrfpxlupwoig
+	ziwopasabimiwlqintdazsel
+	zlzuuxgcbxhpiobipcgefsii
+	zpelaldogsqceohufucibfex
+	zpictioeyuvSargufijaldil
+	zpqcfxxpuaoayrkileecgcae
+	zrussadstompwpreyiyivirc
+x = 161
+
+end testSort
+
+longTest sort solution: NO minHeaps
+
+end longTest.
