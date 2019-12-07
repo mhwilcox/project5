@@ -2,16 +2,69 @@
 [----------] Global test environment set-up.
 [----------] 2 tests from HeapTests
 [ RUN      ] HeapTests.Bedpost
+string: bedpost
 [       OK ] HeapTests.Bedpost (0 ms)
 [ RUN      ] HeapTests.Pinhead
+string: pinhead
 [       OK ] HeapTests.Pinhead (0 ms)
 [----------] 2 tests from HeapTests (0 ms total)
 
 [----------] 1 test from Sorting
 [ RUN      ] Sorting.Sort1
-in vector: 
-solution: adjourns, adjusts, bedpost, despot, [       OK ] Sorting.Sort1 (0 ms)
-[----------] 1 test from Sorting (0 ms total)
+
+in string: bedpost, adjusts, adjourns, despot, compare curMax: despot to vec[0]: bedpost
+max == vec[unchecked]
+out of for loop.
+end of while loop
+compare curMax: adjourns to vec[0]: bedpost
+compare curMax: bedpost to vec[1]: adjusts
+out of for loop.
+temp: adjourns
+ new max: bedpost
+end of while loop
+
+solution: adjourns, adjusts, bedpost, despot, 
+ end sort
+
+[       OK ] Sorting.Sort1 (1 ms)
+[----------] 1 test from Sorting (1 ms total)
 
 [----------] 1 test from Collection
 [ RUN      ] Collection.SetOfHeaps
+findHeaps
+size of words: 5
+words: 
+bedpost, despot, pinhead, adjourns, adjusts, now on to MinHeap
+string: bedpost
+string: despot
+string: pinhead
+string: adjourns
+string: adjusts
+size of retMin: 4
+
+in string: bedpost, despot, adjourns, adjusts, compare curMax: adjusts to vec[0]: bedpost
+compare curMax: bedpost to vec[1]: despot
+compare curMax: despot to vec[2]: adjourns
+out of for loop.
+temp: adjusts
+ new max: despot
+end of while loop
+compare curMax: adjourns to vec[0]: bedpost
+compare curMax: bedpost to vec[1]: adjusts
+out of for loop.
+temp: adjourns
+ new max: bedpost
+end of while loop
+
+solution: adjourns, adjusts, bedpost, despot, 
+ end sort
+
+after sort in findHeaps
+ retMin: adjourns, adjusts, bedpost, despot, 
+ end of findHeaps
+[       OK ] Collection.SetOfHeaps (1 ms)
+[----------] 1 test from Collection (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 4 tests from 3 test cases ran. (2 ms total)
+[  PASSED  ] 4 tests.

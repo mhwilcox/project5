@@ -1,0 +1,22 @@
+[==========] Running 4 tests from 3 test cases.
+[----------] Global test environment set-up.
+[----------] 2 tests from HeapTests
+[ RUN      ] HeapTests.Bedpost
+[       OK ] HeapTests.Bedpost (0 ms)
+[ RUN      ] HeapTests.Pinhead
+[       OK ] HeapTests.Pinhead (0 ms)
+[----------] 2 tests from HeapTests (0 ms total)
+
+[----------] 1 test from Sorting
+[ RUN      ] Sorting.Sort1
+in vector: 
+solution: adjourns, adjusts, bedpost, despot, [       OK ] Sorting.Sort1 (0 ms)
+[----------] 1 test from Sorting (0 ms total)
+
+[----------] 1 test from Collection
+[ RUN      ] Collection.SetOfHeaps
+findHeaps
+getline
+ss<<line
+ss>>word
+foo0] = bedpost

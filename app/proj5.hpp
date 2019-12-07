@@ -32,7 +32,4 @@ std::vector<std::string> findHeaps(std::istream & in);
 
 
 
-
-
-
 #endif 
