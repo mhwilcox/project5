@@ -7,6 +7,14 @@
 #IncludeRegexTransform: 
 
 /home/ics46b/projects/proj5/app/main.cpp
+iostream
+-
+sstream
+-
+string
+-
+proj5.hpp
+/home/ics46b/projects/proj5/app/proj5.hpp
 
 /home/ics46b/projects/proj5/app/proj5.cpp
 iostream
